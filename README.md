@@ -1,6 +1,5 @@
 ![Logo](logo/Group1.png)
 ---
-# Kitler (KT) Programming Language
 ***Made for game devs, built for apps***
 
 ## Language Overview
